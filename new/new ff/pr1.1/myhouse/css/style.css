@@ -1,0 +1,117 @@
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  font-size: 20pt;
+  color: #0000FF;
+}
+
+h2 {
+  text-align: right;
+  font-family: Verdana;
+  font-size: 16pt;
+  color: #800000;
+}
+
+p {
+  text-align: justify;
+  color: #191970;
+  font-family: Arial;
+  font-size: 12pt;
+}
+
+body {
+  background-color: #99CCFF;
+}
+
+/*
+h1.main {
+  color: navy;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 14pt;
+}
+h1.golub{
+  color: blue;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 14pt;
+}
+h1.krasn {
+  color: red;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 14pt;
+}
+h1.zelen {
+  color: green;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 14pt;
+}
+h1.oranzhev{
+  color: orange;
+  text-align: left;
+  font-family: Verdana;
+  font-size: 14pt;
+}
+*/
+h1.main,
+h1.golub,
+h1.krasn,
+h1.zelen,
+h1.oranzhev {
+  color: navy;
+  font-family: Verdana;
+  font-size: 14pt;
+  text-align: left;
+}
+
+/*  ploshady.html */
+h1.main {
+  color: navy;
+}
+
+h1.golub {
+  color: blue;
+}
+
+h1.krasn {
+  color: red;
+}
+
+h1.zelen {
+  color: green;
+}
+h1.oranzhev {
+  color: orange;
+}
+
+p.main_2 {
+  color: navy;
+  text-align: center;
+  font-size: 13pt;
+}
+
+p.golub_2 {
+  color: blue;
+  text-align: left;
+  font-size: 11pt;
+}
+
+p.krasn_2 {
+  text-align: right;
+  color: red;
+  font-size: 12pt;
+}
+
+p.zelen_2 {
+  color: green;
+  font-size: 13pt;
+  text-align: left;
+}
+
+p.oranzhev_2 {
+  color: orange;
+  font-size: 13pt;
+  text-align: center;
+}
