@@ -1,0 +1,15 @@
+#h1-first{
+text-align: right;
+color: red;
+font-family: Arial;
+}
+p{
+    color: green;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 14;
+}
+#h2-first{
+text-align: left;
+font-family: Arial;
+}
